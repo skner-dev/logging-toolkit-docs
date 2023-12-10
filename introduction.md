@@ -52,7 +52,7 @@ For more information on how to create a custom logging output, how to use the lo
 
 Tailor the log format for each logger with a highly customizable structure supporting Rich Text formatting. This feature integrates seamlessly with the Unity Console, allowing for a visually appealing and informative logging experience.
 
-Explore the details of log formatting and its customization options on the [Log Format](log-format.md/) page.
+Explore the details of log formatting and its customization options on the [Log Format](models/log-format.md/) page.
 
 ### Intuitive User Experience
 

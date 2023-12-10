@@ -6,7 +6,7 @@ The logging toolkit package comes with a demo that contains examples on how to u
 
 To access the demo project, navigate into the Package Manager. In the Logging Toolkit's entry, find the project in the Samples tab and import it:
 
-![Importing the demo sample](../images/demo-import.png)
+![Importing the demo sample](/images/demo-import.png)
 
 ## Logging Examples
 

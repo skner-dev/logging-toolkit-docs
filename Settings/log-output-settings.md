@@ -43,7 +43,7 @@ This section will demonstrate how to fully implement a brand new log output. It 
     [SerializeField] internal LogOutputBuffer LogOutputBuffer;
     ```
 
-    This functionality is made possible by the use of several output modules, using a composition principle. Learn more [here](../output-modules/output-modules.md).
+    This functionality is made possible by the use of several output modules, using a composition principle. Learn more [here](<../Output Modules/output-modules.md>).
 
     These modules will be exposed in the inspector with a custom property drawer, making it easy for the developer to configure each module.
 

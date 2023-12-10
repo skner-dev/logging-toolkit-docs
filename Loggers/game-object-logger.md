@@ -14,7 +14,7 @@ Being a Unity component, setting this logger up is straight forward. In the sele
 
 In the Logger Settings field, assign an existing Logger Settings:
 
-![A](/images/gameobjectlogger-tutorial2.png)
+![](/images/gameobjectlogger-tutorial2.png)
 
 _Note: Read more into how to create and configure a Logger Settings instance [here](../settings/logger-settings.md)._
 
