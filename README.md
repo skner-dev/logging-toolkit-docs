@@ -1,4 +1,4 @@
-# skner's Logging Toolkit for Unity
+# Welcome to skner's Logging Toolkit for Unity
 
 Welcome to the documentation for the Logging Toolkit! This toolkit provides a powerful, customizable and intuitive logging solution for Unity projects. 
 

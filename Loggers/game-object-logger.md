@@ -10,11 +10,11 @@ For example, the Player object often contains several scripts. These can referen
 
 Being a Unity component, setting this logger up is straight forward. In the selected game object, add a new _GameObjectLogger_ script:
 
-![Adding a Game Object Logge component to a Game Object](../../images/gameobjectlogger-tutorial1.png)
+![Adding a Game Object Logge component to a Game Object](/images/gameobjectlogger-tutorial1.png)
 
 In the Logger Settings field, assign an existing Logger Settings:
 
-![Alt text](../../images/gameobjectlogger-tutorial2.png)
+![A](/images/gameobjectlogger-tutorial2.png)
 
 _Note: Read more into how to create and configure a Logger Settings instance [here](../settings/logger-settings.md)._
 
