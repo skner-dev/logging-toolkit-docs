@@ -20,7 +20,7 @@ This should automatically update your associated .csproj to have the following e
 
 This can also be included manually. The path for the .dll is the default as taken by the package import.
 
-After this has been included, go to your project settings and find the Logging Toolkit's entry. If the resource files were not imported, the panel will display as follows:
+After this has been included, go to your project settings and find the Logging Toolkit's entry. If the resource files were not imported, the panel will display as follows: 
 
 ![Initial project settings view](/images/project-settings-initial.png)
 
