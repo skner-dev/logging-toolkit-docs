@@ -14,7 +14,7 @@ This should automatically update your associated .csproj to have the following e
 
 ```xml
 <Reference Include="skner.LoggingToolkit">
-  <HintPath>Library\PackageCache\com.skner.loggingtoolkit@1.0.0\Runtime\skner.LoggingToolkit.dll</HintPath>
+  <HintPath>Packages\com.skner.loggingtoolkit\Runtime\skner.LoggingToolkit.dll</HintPath>
 </Reference>
 ```
 
