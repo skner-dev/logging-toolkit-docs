@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.0.1] - 2024-03-15
+
+- Fixed a bug with UnityEditor code being included in standalone builds
+
 ## [1.0.0] - 2023-12-13
 
 - Initial package release
