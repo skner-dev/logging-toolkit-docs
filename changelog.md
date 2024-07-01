@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.0.2] - 2024-07-01
+
+- Moved all editor code into new assembly to fix occasional issues in standalone builds
+
 ## [1.0.1] - 2024-03-15
 
 - Fixed a bug with UnityEditor code being included in standalone builds
